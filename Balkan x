@@ -48,18 +48,8 @@ Tab1Section:NewButton("🗡mm2🔫","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pa1nx/RRCreations/main/MurdererMystery2'))()
 end)
 
-Tab1Section:NewButton("🔪¡Survive the Killer!","No description",function()
-local games = {
- 
-    ["SurviveTheKiller"] = 4580204640
- 
-}
- 
-for i,v in pairs(games) do
-    if game.PlaceId == v then print("Supported!"); loadstring(game:HttpGet("https://raw.githubusercontent.com/MiloHaxx/ChairWare/main/Games/" .. i .. ".lua"))() end
-end
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MiloHaxx/ChairWare/main/dcJoin.lua"))()
+Tab1Section:NewButton("Country Jail RolePlay👮‍♂️🔫","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/Countyjail/main/Source'))()
 end)
 
 Tab1Section:NewButton("🦃 Pet Simulator X 🐾 (key in desc)","key: projectWBIsAwesomeG8J7GJ678PY",function()
@@ -67,11 +57,12 @@ getgenv().key = "projectWBIsAwesomeG8J7GJ678PY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
 end)
 
-Tab1Section:NewButton("🗳️MAP VOTING🗳️ Tower Defense Simulator(PATCHED)","No description",function()
-end)
+Tab1Section:NewButton("Thouch soccer⚽️","No description",function()
+loadstring(game:HttpGet('https://pastebin.com/raw/gDPPkGxT'))()
+  end)
 
-Tab1Section:NewButton("Bedwars 🛰️ [NEW KIT!]","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bojoexploitz/yooo/main/itsobfuscated/InfinityHubTooOP", true))()
+Tab1Section:NewButton("Bee swarm 🐝","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitylua/Luascripts/main/KJFsdEj8sXrja.lua"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Shooter Games")
@@ -201,8 +192,8 @@ Tab1Section:NewButton("Super League Soccer🔥","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Soccer5/main/SuperLeague"))()
 end)
 
-Tab1Section:NewButton("Longest Answer Wins (No key)","No description",function()
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/UnknownStraz/Longest-Answer-Wins/main/Script"), true))()
+Tab1Section:NewButton("Tps Street Soccer","No description",function()
+loadingstring(game:HttpsGet('https://raw.githubusercontent.co./hussain132323/My-Scripts/main/street%20Soccer'))()
 end)
 
 Tab2Section:NewButton("--- Added more games","No description",function()
