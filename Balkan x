@@ -21,31 +21,31 @@ local Tab4Section = Tab4:NewSection("Coming soom")
 ---Buttons
  
  Tab1Section:NewButton("Pls donate","No description",function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/Script'))() 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua'))()
 end)
 
-Tab1Section:NewButton("Brookhaven🏡RP","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+Tab1Section:NewButton("Prison life","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/Script'))()
 end)
 
-Tab1Section:NewButton("[🐯🍩UPDATE]Blox Friuts","No description",function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
 end)
 
-Tab1Section:NewButton("Combat Warriors","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NEW_NOVA"))()
+Tab1Section:NewButton("Blade ball🗡","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/frankblox/rbxscripts/main/0bladeball"))()
 end)
 
-Tab1Section:NewButton("🎟 Evade","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
+Tab1Section:NewButton("bedwars🛌","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end)
 
-Tab1Section:NewButton("Doors 👁 [🌐]","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
+Tab1Section:NewButton("Jailbreak🔥","No description",function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Jailbreak-Vynixius-1175"))()
 end)
 
-Tab1Section:NewButton("Rainbow Friends","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Rainbow-Friends/main/Rainbow%20Friends"))()
+Tab1Section:NewButton("🗡mm2🔫","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pa1nx/RRCreations/main/MurdererMystery2'))()
 end)
 
 Tab1Section:NewButton("🔪¡Survive the Killer!","No description",function()
@@ -95,9 +95,9 @@ while wait() do for i,v in pairs(game.Players:GetPlayers()) do if v.Name ~= game
 end)
 
 Tab1Section:NewButton("Breaking Point (H4R7N old)","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack.lua"))()
-end)
-
+    
+  end)
+    
 Tab1Section:NewButton("Breaking Point (H4R7N new)","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack%20v1.2.lua"))()
 end)
@@ -161,8 +161,8 @@ Tab1Section:NewButton("Da Hood 🎃","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
 end)
 
-Tab1Section:NewButton("💪Muscle Legends","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/harisiskandar178/Roblox-Script/main/Muscle%20Legend"))()
+Tab1Section:NewButton("🎟evade","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
 end)
 
 Tab1Section:NewButton("Build A Boat For Treasure","No description",function()
@@ -173,8 +173,8 @@ Tab1Section:NewButton("Tower of Hell","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/VectorXinside/tower/main/towerofhell.lua'))()
 end)
 
-Tab1Section:NewButton("Natural Disaster Survival","No description",function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/9NLK7/93qjoadnlaknwldk/main/main'))()
+Tab1Section:NewButton("Doors👁","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
 end)
 
 Tab1Section:NewButton("Break In","No description",function()
@@ -189,16 +189,16 @@ Tab1Section:NewButton("Legends Of Speed ⚡️","No description",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/1iMHrZ50", true))()
 end)
 
-Tab1Section:NewButton("🔧FACTORY!🔧 Car Delearship Tycoon","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IExpIoit/Script/main/UltimateHub"))()
+Tab1Section:NewButton("Arm wrestling
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1Toxin/flame/main/loader"))()
 end)
 
 Tab1Section:NewButton("Starving Artists (DONATION GAME)","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeux45/Starving-Artist-script/main/Script", true))()
 end)
 
-Tab1Section:NewButton("Longest Answer Wins (key in desc)","key: 5TxhCR2J8Q",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/idontknowwhattonamemyself/Nic-Hub-v2/Lua/Loader"))()
+Tab1Section:NewButton("Super League Soccer🔥","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Soccer5/main/SuperLeague"))()
 end)
 
 Tab1Section:NewButton("Longest Answer Wins (No key)","No description",function()
