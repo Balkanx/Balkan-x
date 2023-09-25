@@ -86,9 +86,9 @@ while wait() do for i,v in pairs(game.Players:GetPlayers()) do if v.Name ~= game
 end)
 
 Tab1Section:NewButton("Breaking Point (H4R7N old)","No description",function()
-    
-  end)
-    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack%20v1.2.lua"))()
+end)
+
 Tab1Section:NewButton("Breaking Point (H4R7N new)","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack%20v1.2.lua"))()
 end)
@@ -180,7 +180,7 @@ Tab1Section:NewButton("Legends Of Speed ⚡️","No description",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/1iMHrZ50", true))()
 end)
 
-Tab1Section:NewButton("Arm wrestling
+Tab1Section:NewButton("arm wrestling","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1Toxin/flame/main/loader"))()
 end)
 
