@@ -81,67 +81,8 @@ Tab1Section:NewButton("Breaking Point","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ColdStep2/Breaking-Point-Funny-Squid-Hax/main/Breaking%20Point%20Funny%20Squid%20Hax",true))();
 end)
 
-Tab1Section:NewButton("Breaking Point (Auto Hit)","No description",function()
-while wait() do for i,v in pairs(game.Players:GetPlayers()) do if v.Name ~= game.Players.LocalPlayer.Name then if game.Workspace:FindFirstChild(v.Name) then if game.Workspace[v.Name].Humanoid.Sit ~= true then if game.Workspace[v.Name]:FindFirstChild("Blade") then game:GetService("ReplicatedStorage").RemoteEvent:FireServer(37, CFrame.new(Vector3.new(0, 0, 0), Vector3.new(0, 0, 0)), Vector3.new(v.Character.HumanoidRootPart.CFrame.x, 4, v.Character.HumanoidRootPart.CFrame.z), Vector3.new(0, 0, 0)) wait(.1) game:GetService("ReplicatedStorage").RemoteEvent:FireServer(43, v.Character.HumanoidRootPart, v, "IIlIla", true) else if v.Backpack:FindFirstChild("Blade") then game:GetService("ReplicatedStorage").RemoteEvent:FireServer(37, CFrame.new(Vector3.new(0, 0, 0), Vector3.new(0, 0, 0)), Vector3.new(v.Character.HumanoidRootPart.CFrame.x, 4, v.Character.HumanoidRootPart.CFrame.z), Vector3.new(0, 0, 0)) wait(.1) game:GetService("ReplicatedStorage").RemoteEvent:FireServer(43, v.Character.HumanoidRootPart, v, "IIlIla", true) end end end end end end end
-end)
-
-Tab1Section:NewButton("Breaking Point (H4R7N old)","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack%20v1.2.lua"))()
-end)
-
-Tab1Section:NewButton("Breaking Point (H4R7N new)","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R7NHacks/Obfuscated/master/Breaking%20Point%20H4R7N%20Hack%20v1.2.lua"))()
-end)
-
-Tab1Section:NewButton("Knife Ability Test (Fluxus Only)","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
-end)
-
-Tab1Section:NewButton("Knife Ability Test(Aimbot - Hydrogen/Fluxus)","No description",function()
-local Camera = game:GetService("Workspace").CurrentCamera
-local Players = game:GetService("Players")
-local LocalPlayer = game:GetService("Players").LocalPlayer
- 
-local function GetClosestPlayer()
-   local ClosestPlayer = nil
-   local FarthestDistance = math.huge
- 
-   for i, v in pairs(Players.GetPlayers(Players)) do
-       if v ~= LocalPlayer and v.Character and v.Character.FindFirstChild(v.Character, "HumanoidRootPart") then
-           local DistanceFromPlayer = (LocalPlayer.Character.HumanoidRootPart.Position - v.Character.HumanoidRootPart.Position).Magnitude
- 
-           if DistanceFromPlayer < FarthestDistance then
-               FarthestDistance = DistanceFromPlayer
-               ClosestPlayer = v
-           end
-       end
-   end
- 
-   if ClosestPlayer then
-       return ClosestPlayer
-   end
-end
- 
-local GameMetaTable = getrawmetatable(game)
-local OldGameMetaTableNamecall = GameMetaTable.__namecall
-setreadonly(GameMetaTable, false)
- 
-GameMetaTable.__namecall = newcclosure(function(object, ...)
-   local NamecallMethod = getnamecallmethod()
-   local Arguments = {...}
- 
-   if tostring(NamecallMethod) == "FindPartOnRayWithIgnoreList" then
-       local ClosestPlayer = GetClosestPlayer()
- 
-       if ClosestPlayer and ClosestPlayer.Character then
-           Arguments[1] = Ray.new(Camera.CFrame.Position, (ClosestPlayer.Character.Head.Position - Camera.CFrame.Position).Unit * (Camera.CFrame.Position - ClosestPlayer.Character.Head.Position).Magnitude)
-       end
-   end
- 
-   return OldGameMetaTableNamecall(object, unpack(Arguments))
-end)
- 
-setreadonly(GameMetaTable, true)
+Tab1Section:NewButton("Breaking in story","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/break-in-v1/main/.gitignore"))();
 end)
 
 Tab1Section:NewButton("Murder Mystery 2","No description",function()
