@@ -98,7 +98,7 @@ Tab1Section:NewButton("Jailbreak🔥 2","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/free"))()
 end)
 
-Tab1Section:NewButton("Jailbreak🔥","No description",function()
+Tab1Section:NewButton("Jailbreak🔥 3","No description",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5d4b0843f800d5dcac07568e18190b7e.lua"))()
 end)
 
@@ -225,7 +225,7 @@ Tab1Section:NewButton("Breaking in story🎭 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua"))()
 end)
 
-
+local Tab1Section = Tab1:NewSection("Murder Mystery 2")
 
 Tab1Section:NewButton("🔫Murder mystery2🗡 1","No description",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/MarsQQ/ScriptHubScripts/master/MM2%20Admin%20Panel'),true))()
