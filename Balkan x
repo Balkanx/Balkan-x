@@ -188,7 +188,7 @@ local httpget=request or http_request or(http and http.request)or(syn and syn.re
 loadstring(httpget({Url="https://raw.githubusercontent.com/AndrewDarkyy/NOWAY/main/darkyyware.lua",Method="GET"}).Body)()
 end)
 
-Tab1Section:NewButton("BIG Paintball🔫 ","No description",function()
+Tab1Section:NewButton("BIG Paintball🔫 3","No description",function()
 loadstring(game:HttpGet("https://realzzhub.xyz/script.lua"))()
 end)
 
@@ -317,7 +317,7 @@ Tab1Section:NewButton("Doors👁 2","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/R8QMbhzv"))()
 end)
 
-Tab1Section:NewButton("Doors👁","No description",function()
+Tab1Section:NewButton("Doors👁 3","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DeividComSono/Scripts/main/Scanner.lua'))()
 end)
 
