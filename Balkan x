@@ -175,7 +175,7 @@ Tab1Section:NewButton("🔥Arsenal🔫 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/arsenal4.lua"))()
 end)
 
-Tab1:NewSection("Big Paintball")
+local Tab1Section = Tab1:NewSection("Big Paintball")
 
 Tab1Section:NewButton("BIG Paintball🔫 1 ","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
