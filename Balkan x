@@ -20,16 +20,24 @@ local Tab4Section = Tab4:NewSection("Coming soon")
  
 ---Buttons
  
- Tab1Section:NewButton("Pls donate 1","No description",function()
+ Tab1Section:NewButton("Pls donate🎉 1","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua'))()
 end)
 
-Tab1Section:NewButton("Pls donate 2","No description",function()
+Tab1Section:NewButton("Pls donate🎉 2","No description",function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/f0a3yune')))()
 end)
 
-Tab1Section:NewButton("Pls donate 3","No description",function()
+Tab1Section:NewButton("Pls donate🎉 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hecmax/hecmax/main/hjk", true))()
+end)
+
+Tab1Section:NewButton("Pls donate🎉 4","No description",function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/f0a3yune')))()
+end)
+
+Tab1Section:NewButton("Pls donate🎉 5","No description",function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
 end)
 
 local Tab1Section = Tab1:NewSection("Prison life")
@@ -46,6 +54,18 @@ Tab1Section:NewButton("Prison life 3","No description",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()
 end)
 
+Tab1Section:NewButton("Prison life 4","No description",function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+end)
+
+Tab1Section:NewButton("Prison life 5","No description",function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/h17s3/TIGERADMIN/main/TIGERADMINSCRIPTFREE'),true))()
+end)
+
+Tab1Section:NewButton("Prison life 6","No description",function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt'),true))()
+end)
+
 local Tab1Section = Tab1:NewSection("☠️Blox fruits🏴‍☠️")
 
 Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 1","No description",function()
@@ -58,6 +78,74 @@ end)
 
 Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 3","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xDepressionx/Free-Script/main/BloxFruit.lua"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 6","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 7","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tufreescript/FTS-X-Hub/main/FTSXHUB%20V1'))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 8","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/Protected-25.lua"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 9","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Steveee11/Scripts/main/Blox%20Fruits%20OP%20Script"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 10","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/flares"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 11","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BestScriptEverr/Main-/main/Law%20hub"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 12","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/TNGHub/main/AutoRaceV4.lua"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 13","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/BLCK"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 14","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/modz"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 15","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 16","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumX/main/src_.lua.txt"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 17","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-05/HUB/main/Mobile-Loader"))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 18","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/S4nZz/bt_project/main/Games/BlacktrapScript.txt'))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 19","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+end)
+
+Tab1Section:NewButton("☠️Blox fruits🏴‍☠️ 20","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
 end)
 
 local Tab1Section = Tab1:NewSection("Blade Ball")
@@ -74,6 +162,23 @@ Tab1Section:NewButton("Blade ball🗡 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/SourceLua/main/Blade_Ball.lua"))()
 end)
 
+Tab1Section:NewButton("Blade ball🗡 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/SourceLua/main/Blade_Ball.lua"))()
+end)
+
+Tab1Section:NewButton("Blade ball🗡 5","No description",function()
+loadstring(game:HttpGet("https://github.com/SadlekAski/Scripts/raw/main/Blade%20Ball/Equip%20any%20ability.lua"))()
+end)
+
+Tab1Section:NewButton("Blade ball🗡 6 [x to enable spam]","No description",function()
+getgenv().visualizer = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/RedCircleBlock"))()
+end)
+
+Tab1Section:NewButton("Blade ball🗡 7","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/BingBong/main/AllGames"))()
+end)
+
 local Tab1Section = Tab1:NewSection("Bed wars")
 
 Tab1Section:NewButton("bedwars🛌 1","No description",function()
@@ -88,6 +193,18 @@ Tab1Section:NewButton("bedwars🛌 3","No description",function()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/DeveloperMikey/2b8ee3d5a38c56c2cc1db72554850384/raw/bedwar.lua", true))()
 end)
 
+Tab1Section:NewButton("bedwars🛌 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Technoraids/Amberware/main/RobloxTelanthricBedwars"))()
+end)
+
+Tab1Section:NewButton("bedwars🛌 5","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/joeengo/Future/main/loadstring.lua', true))()
+end)
+
+Tab1Section:NewButton("bedwars🛌 6","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OWJBWKQLAISH/Inferno-X/main/inferno%20X%20V2"))()
+end)
+
 local Tab1Section = Tab1:NewSection("Jailbreak")
 
 Tab1Section:NewButton("Jailbreak🔥 1","No description",function()
@@ -100,6 +217,18 @@ end)
 
 Tab1Section:NewButton("Jailbreak🔥 3","No description",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5d4b0843f800d5dcac07568e18190b7e.lua"))()
+end)
+
+Tab1Section:NewButton("Jailbreak🔥 4","No description",function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Jailbreak-Sensation-7024"))()
+end)
+
+Tab1Section:NewButton("Jailbreak🔥 5","No description",function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Jailbreak-Vynixius-1175"))()
+end)
+
+Tab1Section:NewButton("Jailbreak🔥 6","No description",function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Jailbreak-DevilWare-Script-7692"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Murder mystery 2")
@@ -118,6 +247,22 @@ Tab1Section:NewButton("🗡mm2🔫 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/scripts/main/mm2",true))()
 end)
 
+Tab1Section:NewButton("🗡mm2🔫 4","No description",function()
+local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+end)
+
+Tab1Section:NewButton("🗡mm2🔫 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vwSaraa/LunarHub/main/mm2"))()
+end)
+
+Tab1Section:NewButton("🗡mm2🔫 6","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jxys3rrV/jaydens-hub/main/script'))();
+end)
+
+Tab1Section:NewButton("🗡mm2🔫 7","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/13B8B/NEXUS/main/loadstring'))()
+end)
+
 local Tab1Section = Tab1:NewSection("Pet sim x")
 
 Tab1Section:NewButton("🦃 Pet Simulator X 🐾 1 (key in desc)","key: projectWBIsAwesomeG8J7GJ678PY",function()
@@ -125,12 +270,16 @@ getgenv().key = "projectWBIsAwesomeG8J7GJ678PY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
 end)
 
-Tab1Section:NewButton("🦃 Pet Simulator X 🐾 2 (key in desc)","key: projectWBIsAwesomeG8J7GJ678PY",function()
+Tab1Section:NewButton("🦃 Pet Simulator X 🐾 2","No description",function()
 loadstring(game:HttpGetAsync("https://blacktrap.org/blacktrap/users/checkpoint/Auth.txt"))()
 end)
 
-Tab1Section:NewButton("🦃 Pet Simulator X 🐾 3 (key in desc)","key: projectWBIsAwesomeG8J7GJ678PY",function()
+Tab1Section:NewButton("🦃 Pet Simulator X🐾 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub"))()
+end)
+
+Tab1Section:NewButton("🦃 Pet Simulator X 🐾 4 (key in desc)","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Thouch Soccer")
@@ -161,6 +310,14 @@ Tab1Section:NewButton("Bee swarm 🐝 3","No description",function()
 loadstring(game:GetObjects("rbxassetid://4384103988")[0X1].Source)("Pepsi Swarm")
 end)
 
+Tab1Section:NewButton("Bee swarm 🐝 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Histy"))()
+end)
+
+Tab1Section:NewButton("Bee swarm 🐝 5","No description",function()
+loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))()
+end)
+
 local Tab1Section = Tab1:NewSection("Arsenal")
 
 Tab1Section:NewButton("🔥Arsenal🔫 1","No description",function()
@@ -175,7 +332,28 @@ Tab1Section:NewButton("🔥Arsenal🔫 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/arsenal4.lua"))()
 end)
 
-local Tab1Section = Tab1:NewSection("Big Paintball")
+Tab1Section:NewButton("🔥Arsenal🔫 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5"))()
+end)
+
+Tab1Section:NewButton("🔥Arsenal🔫 5","No description",function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()
+end)
+
+Tab1Section:NewButton("🔥Arsenal🔫 6","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/arsenal4.lua"))()
+end)
+
+Tab1Section:NewButton("🔥Arsenal🔫 7","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+end)
+
+Tab1Section:NewButton("🔥Arsenal🔫 8","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xandudiscord/vestra/main/loader.lua"))()
+end)
+
+local Tab1Section =
+Tab1:NewSection("Big Paintball")
 
 Tab1Section:NewButton("BIG Paintball🔫 1 ","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
@@ -188,6 +366,18 @@ end)
 
 Tab1Section:NewButton("BIG Paintball🔫 3 ","No description",function()
 loadstring(game:HttpGet("https://realzzhub.xyz/script.lua"))()
+end)
+
+Tab1Section:NewButton("BIG Paintball🔫 4 ","No description",function()
+local a="https://eternityhub.xyz/Script"local b=a.."/Eternity.lua"loadstring(game:HttpGet(b))()
+end)
+
+Tab1Section:NewButton("BIG Paintball🔫 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/radjahfromdiscord/iNEXT/main/source"))()
+end)
+
+Tab1Section:NewButton("BIG Paintball🔫 6","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeakMaster/Dark-Hub-V4.1/main/Big_Paintball.lua"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Breaking Point")
@@ -207,6 +397,10 @@ getgenv().ServerHop = false --enables / disables server hop, add to autoexec if 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/2vsh/breakingpoint/main/mainscript.lua'))()
 end)
 
+Tab1Section:NewButton("Breaking Point🧩 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MostafaXc00dy/MostafaXc00dy/main/Outlaws%20Hub/Breaking%20Point%20V7.lua"))()
+end)
+
 local Tab1Section = Tab1:NewSection("Breaking In Sotry")
 
 Tab1Section:NewButton("Breaking in story🎭 1","No description",function()
@@ -219,6 +413,10 @@ end)
 
 Tab1Section:NewButton("Breaking in story🎭 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua"))()
+end)
+
+Tab1Section:NewButton("Breaking in story🎭 4","No description",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/JCWALTth"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Murder Mystery 2")
@@ -235,7 +433,21 @@ Tab1Section:NewButton("🔫Murder mystery2🗡 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Eblan19/875578/main/ERA-Hub"))()
 end)
 
+Tab1Section:NewButton("🔫Murder mystery2🗡 4","No description",function()
+local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+end)
 
+Tab1Section:NewButton("🔫Murder mystery2🗡 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vwSaraa/LunarHub/main/mm2"))()
+end)
+
+Tab1Section:NewButton("🔫Murder mystery2🗡 6","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jxys3rrV/jaydens-hub/main/script'))();
+end)
+
+Tab1Section:NewButton("🔫Murder mystery2🗡 8","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/13B8B/NEXUS/main/loadstring'))()
+end)
 
 local Tab1Section = Tab1:NewSection("Da Hood")
 
@@ -251,7 +463,21 @@ Tab1Section:NewButton("Da Hood 🎃 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
 end)
 
+Tab1Section:NewButton("Da Hood 🎃 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Haihellos/skidded-enclosed-gui/main/message.txt"))()
+end)
 
+Tab1Section:NewButton("Da Hood 🎃 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nyulachan/nyula/main/nyuladhm", true))()
+end)
+
+Tab1Section:NewButton("Da Hood 🎃 6","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Venomscript/Venom/main/1.0'))()
+end)
+
+Tab1Section:NewButton("Da Hood 🎃 7","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+end)
 
 local Tab1Section = Tab1:NewSection("evade")
 
@@ -266,6 +492,14 @@ end)
 
 Tab1Section:NewButton("🎟evade 3","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evade/main/Main.lua'))()
+end)
+
+Tab1Section:NewButton("🎟evade 4","No description",function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Main.lua"), true))()
+end)
+
+Tab1Section:NewButton("🎟evade 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Evade/main.lua"))()
 end)
 
 local Tab1Section = Tab1:NewSection("Build A Boat For Treasure")
@@ -323,7 +557,21 @@ Tab1Section:NewButton("Doors👁 3","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DeividComSono/Scripts/main/Scanner.lua'))()
 end)
 
+Tab1Section:NewButton("Doors👁 4","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/UtilitiesHub/main/UtilitiesGUI'))()
+end)
 
+Tab1Section:NewButton("Doors👁 5","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/Loader52.lua'))()
+end)
+
+Tab1Section:NewButton("Doors👁 6","No description",function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"),true))()
+end)
+
+Tab1Section:NewButton("Doors👁 7[has key]","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiseValco/keybypasses/main/projectwd.lua"))()
+end)
 
 local Tab1Section = Tab1:NewSection("Zombie Attack")
 
@@ -343,7 +591,7 @@ Tab1Section:NewButton("Zombie Attack 4","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Zombie-Attack-Gui/main/Zombie%20Attack%20V1.lua"))()
 end)
 
-Tab1Section:NewButton("Zombie Attack 1","No description",function()
+Tab1Section:NewButton("Zombie Attack 5","No description",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()
 end)
 
@@ -365,18 +613,33 @@ end)
 
 local Tab1Section = Tab1:NewSection("Arm Wrestling")
 
-Tab1Section:NewButton("Arm Wrestling 1","No description",function()
+Tab1Section:NewButton("Arm Wrestling💪 1","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1Toxin/flame/main/loader"))()
 end)
 
-Tab1Section:NewButton("Arm Wrestling 2","No description",function()
+Tab1Section:NewButton("Arm Wrestling💪 2","No description",function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/99d16edc79729a038994f85ce7335971.lua"))()
 end)
 
-Tab1Section:NewButton("Arm Wrestling 3","No description",function()
+Tab1Section:NewButton("Arm Wrestling💪 3","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Arm-wrestle-v3/main/Arm%20wrestle%20v3",true))();
 end)
 
+Tab1Section:NewButton("Arm Wrestling💪 4","No description",function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/99d16edc79729a038994f85ce7335971.lua"))()
+end)
+
+Tab1Section:NewButton("Arm Wrestling💪 5","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Arm-wrestle-v3/main/Arm%20wrestle%20v3",true))();
+end)
+
+Tab1Section:NewButton("Arm Wrestling💪 6","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/limaspeedy/limaspeedy/main/HubLDS"))()
+end)
+
+Tab1Section:NewButton("Arm Wrestling💪 7","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Saitamahaah/SaitaHub/main/NebulaHub"))()
+end)
 
 local Tab1Section = Tab1:NewSection("Starving Artists (DONATION GAME)")
 
@@ -420,10 +683,10 @@ Tab1Section:NewButton("Tps Street Soccer⚽️ 3","No description",function()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/DDIBASAAIB/tpsfreescript/main/obfsctpsfree.lua")() 
 end)
 
-Tab2Section:NewButton("--- Theme changed","No description",function()
+Tab2Section:NewButton("--- added more games","No description",function()
 end)
 
-Tab2Section:NewButton("--- Added more games","No description",function()
+Tab2Section:NewButton("--- Added more scripts","No description",function()
 end)
 
 Tab3Section:NewButton("Keyboard GUI","No description",function()
