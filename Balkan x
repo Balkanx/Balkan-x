@@ -13,7 +13,7 @@ _G.key = "balkan69#"
 _G.keyInput = "string"
 
 function MakeScripthub()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Balkanx/balkan-x-hub/main/balkan%20x%20hub", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Balkanx/Testing/main/Testing", true))()
 end
 
 function CorrectKeyNotification()
