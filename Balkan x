@@ -41,7 +41,7 @@ local Tab = Window:MakeTab({
 
 Tab:AddTextbox({
 	Name = "Enter key",
-	Default = "key link: https://discord.gg/uMgkKq5wP",
+	Default = "key link: https://discord.com/invite/NwjvQvNJZ",
 	TextDisappear = true,
 	Callback = function(Value)
 		_G.keyInput = Value
